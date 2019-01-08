@@ -1,0 +1,8 @@
+// Item Combos Database
+//
+// Structure of Database:
+// ID:ID:ID:ID,{ Script }
+//bonus bLongAtkRate,55;
+//30020:31022:32027,{ bonus2 bAddRace,RC_Player,55; bonus2 bAddRace,RC_DemiHuman,55; bonus bAllStats,35; bonus bMaxHPrate,15; bonus bMaxSPrate,15; bonus2 bSubRace,RC_DemiHuman,-40; bonus2 bSubRace,RC_Player,-40; }
+//30021:31020:32028,{ bonus2 bMagicAddRace,RC_Player,55; bonus2 bMagicAddRace,RC_DemiHuman,55; bonus bAllStats,35; bonus bMaxHPrate,15; bonus bMaxSPrate,15; bonus2 bSubRace,RC_DemiHuman,-40; bonus2 bSubRace,RC_Player,-40; }
+//30022:31021:32029,{ bonus bAllStats,35; bonus bMaxHPrate,15; bonus bMaxSPrate,15; bonus2 bSubRace,RC_Player,30; bonus2 bSubRace,RC_DemiHuman,30; bonus2 bSubEle,Ele_Dark,10; bonus2 bSubEle,Ele_Earth,10; bonus2 bSubEle,Ele_Fire,10; bonus2 bSubEle,Ele_Ghost,10; bonus2 bSubEle,Ele_Holy,10; bonus2 bSubEle,Ele_Poison,10; bonus2 bSubEle,Ele_Undead,10; bonus2 bSubEle,Ele_Water,10; bonus2 bSubEle,Ele_Wind,10; bonus2 bSubEle,Ele_Neutral,20; }
